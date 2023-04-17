@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mosesaviles1212@gmail.com
+	name = Moses Aviles
