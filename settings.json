@@ -84,4 +84,10 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "workbench.editorAssociations": {
+      "*.db": "sqlite-viewer.option"
+    },
+    "window.zoomLevel": 1,
 }
